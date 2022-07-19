@@ -55,7 +55,7 @@ button:hover {
 
 
 
-
+/* Services */
 
 
   .services{
@@ -97,6 +97,10 @@ h1
   }
   .card h2{
     color:rgb(1, 39, 1);
+  }
+  .card p{
+    color:white;
+  
   }
 
 
