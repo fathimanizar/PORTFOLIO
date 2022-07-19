@@ -1,0 +1,25 @@
+div
+{
+    width:100%;
+    background-color:black;
+    border-radius: 6px;
+    height: 100px;
+    text-align: center;
+    text-shadow: 0 0 3px rgb(40, 40, 40)
+}
+a
+{
+    padding: 10px;
+    color:rgb(110, 110, 13);
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover
+{
+    color: white;
+}
+h1
+{
+    color:rgb(110, 110, 13);
+    font-size: 35px;
+}
